@@ -1,0 +1,45 @@
+Sl.No.,Course Code,Course Title,Course Type,L,T,P,J,Credits
+1,CSE2005 ,Operating Systems,PC,3,0,2,0,4
+2,CSE2011 ,Data Structures and Algorithms,PC,3,0,2,0,4
+3,CSE2012,Design and analysis of algorithms,PC,3,0,2,0,4
+4,CSE2013,Theory of Computation,PC,3,0,0,0,3
+5,MAT3004 ,Applied Linear Algebra,PC,3,1,0,0,4
+6,CSE1003 ,Digital Logic and Design,PC,3,0,2,0,4
+7,CSE1004 ,Network and Communication,PC,3,0,2,0,4
+8,CSE1007 ,Java Programming,PC,3,0,2,0,4
+9,CSE2001 ,Computer Architecture and Organization,PC,3,0,0,0,3
+10,CSE2004 ,Database Management Systems,PC,2,0,2,4,4
+11,CSE2006 ,Microprocessor and Interfacing,PC,2,0,2,4,4
+12,CSE3001 ,Software Engineering,PC,2,0,2,4,4
+13,CSE3002 ,Internet and Web Programming,PC,2,0,2,4,4
+14,CSE4001 ,Parallel and Distributed Computing,PC,2,0,2,4,4
+15,EEE1001,Basic Electrical and Electronics Engineering,PC,2,0,2,0,3
+16,MAT1014,Discrete Mathematics and Graph Theory,PC,3,1,0,0,4
+17,CSE2014,Compiler Design,PE,3,0,2,0,4
+18,CSE2023,Robotic Process Automation,PE,2,0,2,4,4
+19,CSE3501,Information Security Analysis and Audit,PE,2,0,2,4,4
+20,CSE3502,Information Security Management,PE,2,0,2,4,4
+21,CSE3505,Foundations of Data Analytics,PE,2,0,2,4,4
+22,CSE3506,Essentials of Data Analytics,PE,2,0,2,4,4
+23,ECE3501,IoT Fundamentals,PE,2,0,2,4,4
+24,ECE3502,IoT Domain Analyst,PE,2,0,2,4,4
+25,CSE1006 ,Blockchain and Cryptocurrency Technologies,PE,3,0,0,0,3
+26,CSE3006 ,Embedded System Design,PE,3,0,2,0,4
+27,CSE3009 ,Internet of Things,PE,3,0,0,4,4
+28,CSE3011 ,Robotics and its Applications,PE,3,0,0,4,4
+29,CSE3013 ,Artificial Intelligence,PE,3,0,0,4,4
+30,CSE3018 ,Content Based Image and Video Retrieval,PE,2,0,2,4,4
+31,CSE3020 ,Data Visualization,PE,2,0,2,4,4
+32,CSE3021 ,Social and Information Networks,PE,3,0,0,4,4
+33,CSE3024 ,Web Mining,PE,3,0,2,0,4
+34,CSE3025 ,Large Scale Data Processing,PE,2,0,2,4,4
+35,CSE3029 ,Game Programming,PE,2,0,2,4,4
+36,CSE4003 ,Cyber Security,PE,3,0,0,4,4
+37,CSE4004 ,Digital Forensics,PE,3,0,2,0,4
+38,CSE4011 ,Virtualization,PE,3,0,0,4,4
+39,CSE4014 ,High Performance Computing,PE,3,0,0,4,4
+40,CSE4015 ,Human Computer Interaction,PE,3,0,0,4,4
+41,CSE4019 ,Image Processing,PE,3,0,0,4,4
+42,CSE4020 ,Machine Learning,PE,2,0,2,4,4
+43,CSE4022 ,Natural Language Processing,PE,3,0,0,4,4
+44,MAT2002,Applications of Differential and Difference Equations,PE,3,0,2,0,4

@@ -18,7 +18,7 @@ The existing course recommendation systems primarily consider academic records s
 The key features of our system include:
 
 Semantic Analysis: We employ advanced natural language processing techniques to extract valuable information from student feedback.
-Real-time Suggestions: Our system provides real-time course recommendations based on both academic performance and the analyzed feedback.
+Recomendation system: Our system provides real-time course recommendations based on both academic performance and the analyzed feedback.
 Improved Student Experience: By offering a wider array of choices and more informed recommendations, we aim to enhance the overall academic journey of students.
 Files
 This repository contains the following files:

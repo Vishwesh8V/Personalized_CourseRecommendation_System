@@ -23,16 +23,17 @@ Improved Student Experience: By offering a wider array of choices and more infor
 Files
 This repository contains the following files:
 
-Indian_Names.csv: A few names to use in final dataset 
-courses.csv: Courses names and Teacher rating, Teacher Friendliness, Course Difficulty, Teaching skills, credits
+Indian_Names.csv: A few names to use in final dataset.
+courses.csv: Courses names and Teacher rating, Teacher Friendliness, Course Difficulty, Teaching skills, credits.
 courses_list.csv: List of Courses with division for each component.
-ds.ipynb: code file for dataset
-feedback.ipynb: code file of feedback
-finalDataset0.4.csv: bag of words used to classify sentiment of a sentance
-rs.ipynb: recommendation system main code file
-student_preferences.csv: student preferences
-studentfeedback.csv: past student feedback
-students.csv: student grades
+ds.ipynb: code file for dataset.
+feedback.ipynb: code file of feedback.
+finalDataset0.4.csv: bag of words used to classify sentiment of a sentance.
+rs.ipynb: recommendation system main code file.
+student_preferences.csv: student preferences.
+studentfeedback.csv: past student feedback.
+students.csv: student grades.
+
 Getting Started
 To get started with the project, follow these steps:
 

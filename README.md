@@ -46,6 +46,3 @@ Data Preparation: Ensure you have the required datasets, including courses.csv, 
 Analysis: Run the notebooks (ds.ipynb, feedback.ipynb, rs.ipynb) to perform data analysis, feedback processing, and recommendation generation.
 Real-time Recommendations: Utilize the generated recommendation model to provide personalized course suggestions to students based on their academic performance and feedback.
 Feel free to customize and integrate our system into your educational institution's infrastructure.
-
-Contributors
-This project was initiated by [Your Name]. Contributions were also made by [Contributor 1], [Contributor 2], and [Contributor 3]. We appreciate the hard work and dedication of all the contributors.
